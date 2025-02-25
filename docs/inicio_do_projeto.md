@@ -8,9 +8,3 @@ A aplicação de abordagens de deep learning na melhoria do diagnóstico de saú
 
 ## Objetivos
 O objetivo desse projeto é gerar um modelo de ML capaz de detectar e realizar a classificação de tumores cerebrais pela sua localização (glioma, meningioma e tumor pituitário) em imagens de ressonancia magnetica.
-
-## Requisitos
-Lorem Ipsum por enquanto.
-
-## Considerações Finais
-Lorem Ipsum por enquanto.
