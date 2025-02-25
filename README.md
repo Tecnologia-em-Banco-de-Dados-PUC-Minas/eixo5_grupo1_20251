@@ -1,11 +1,11 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
+# CLASSIFICAÇÃO DE CANCER CEREBRAL
 `TECNOLOGIA EM BANCO DE DADOS`
 `2025/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem como objetivo prever a presença e classificação de cancer cerebral em imagens de ressonância magnetica, utilizando algoritmos de machine learning com base em uma ampla variedade de imagens de . O objetivo é avaliar a eficácia das técnicas e ferramentas de aprendizado de máquina na previsão correta de diagnósticos.
 
 ## Integrantes
 * Alexandre de Miranda Cardoso
