@@ -1,4 +1,5 @@
 Nesta etapa do trabalho, realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
+
 O objetivo é avaliar a eficácia das técnicas e ferramentas de aprendizado de máquina na previsão de diagnósticos, buscando demonstrar a precisão e a rapidez no processo de detecção de achados críticos nas imagens.
 
 Uma das etapas necessárias para utilizar o algoritmo de machine learning em imagens é o pré-processamento. Como as imagens, em sua essência, são compostas por pixels, é necessário convertê-los em representações numéricas adequadas.
