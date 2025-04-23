@@ -1,4 +1,4 @@
-ETAPA 3
+**ETAPA 3**
 
 Nesta etapa do trabalho, realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
 
@@ -10,7 +10,9 @@ Esse processo envolve diversas técnicas, como normalização, redimensionamento
 Para esta etapa do processo, utilizamos a ferramenta TensorFlow, que oferece um módulo dedicado ao pré-processamento de imagens, automatizando as etapas de conversão e preparação dos dados de imagem.
 O módulo de pré-processamento do TensorFlow nos permite alimentar diretamente as imagens de RM em nossos modelos de machine learning, com a garantia de que foram aplicadas as transformações necessárias para a sua correta interpretação numérica.
 
-#Importando as bibliotecas básicas
+
+
+```#Importando as bibliotecas básicas
 
 import tensorflow as tf
 import pandas as pd
@@ -59,4 +61,4 @@ ds_teste = tf.keras.preprocessing.image_dataset_from_directory(
 )
 
 nomes_classes = ds_treino.class_names
-print("Nome das classes:", nomes_classes)
+print("Nome das classes:", nomes_classes)```
