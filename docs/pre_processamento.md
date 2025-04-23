@@ -1,3 +1,5 @@
+ETAPA 3
+
 Nesta etapa do trabalho, realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
 
 O objetivo é avaliar a eficácia das técnicas e ferramentas de aprendizado de máquina na previsão de diagnósticos, buscando demonstrar a precisão e a rapidez no processo de detecção de achados críticos nas imagens.
