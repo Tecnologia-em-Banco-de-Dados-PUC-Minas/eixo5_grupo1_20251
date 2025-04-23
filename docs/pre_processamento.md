@@ -1,4 +1,4 @@
-**ETAPA 3**
+# ETAPA 3 - Pré-Processamento
 
 Nesta etapa do trabalho, realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
 
