@@ -1,13 +1,13 @@
 # Etapa 3: Pré-Processamento
 
-Nesta etapa do trabalho, realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
+Nesta etapa do trabalho realizaremos uma coleta de dados de imagens de RM para, por meio do machine learning, buscar identificar padrões complexos que possam indicar a presença de tumores cerebrais e auxiliar na classificação em diferentes tipos.
 
 O objetivo é avaliar a eficácia das técnicas e ferramentas de aprendizado de máquina na previsão de diagnósticos, buscando demonstrar a precisão e a rapidez no processo de detecção de achados críticos nas imagens.
 
-Uma das etapas necessárias para utilizar o algoritmo de machine learning em imagens é o pré-processamento. Como as imagens, em sua essência, são compostas por pixels, é necessário convertê-los em representações numéricas adequadas.
-Esse processo envolve diversas técnicas, como normalização, redimensionamento e outras transformações que visam otimizar os dados para o treinamento dos modelos.
+Uma das etapas necessárias para utilizar o algoritmo de machine learning em imagens é o pré-processamento. Como as imagens em sua essência são compostas por pixels, é necessário convertê-los em representações numéricas adequadas.
+Esse processo envolve diversas técnicas como normalização, redimensionamento e outras transformações que visam otimizar os dados para o treinamento dos modelos.
 
-Para esta etapa do processo, utilizamos a ferramenta TensorFlow, que oferece um módulo dedicado ao pré-processamento de imagens, automatizando as etapas de conversão e preparação dos dados de imagem.
+Para esta etapa do processo utilizamos a ferramenta TensorFlow, que oferece um módulo dedicado ao pré-processamento de imagens, automatizando as etapas de conversão e preparação dos dados de imagem.
 O módulo de pré-processamento do TensorFlow nos permite alimentar diretamente as imagens de RM em nossos modelos de machine learning, com a garantia de que foram aplicadas as transformações necessárias para a sua correta interpretação numérica.
 
 
