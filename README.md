@@ -26,6 +26,6 @@ O projeto tem como objetivo prever a presença e classificação de cancer cereb
 | ETAPA 1        |[Documentação de Contexto](docs/inicio_do_projeto.md) |
 | ETAPA 2        |[Coleta de Dados](docs/coleta_dados.md) |
 | ETAPA 3        |[Pré-processamento](docs/pre_processamento.md) |
-| ETAPA 4        |[Aprendizagem de Máquina](docs/aprendizado_maquina_rev.md)|
+| ETAPA 4        |[Aprendizagem de Máquina](docs/aprendizado_maquina.md)|
 | ETAPA 5        |[Análise dos Resultados](docs/analise_resultados.md) |
 | ETAPA 6        |[Otimização](docs/Otimizacao.md) |
